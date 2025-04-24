@@ -21,8 +21,8 @@ const SplashScreen: React.FC = () => {
           <DollarSign size={48} className="text-white" />
         </div>
         <h1 className="text-4xl font-bold mb-2">
-          <span className="text-green-500">Bet</span>
-          <span className="text-white">Pro</span>
+          <span className="text-green-500">EgbonAdugbo</span>
+          <span className="text-white">Bet</span>
         </h1>
         <p className="text-gray-400 max-w-md mx-auto">
           The ultimate sports betting experience. Place bets on your favorite sports and win big!
