@@ -49,8 +49,8 @@ const Header: React.FC = () => {
             </button>
           ) : (
             <div className="flex items-center">
-              <span className="font-bold text-green-500 mr-1">Bet</span>
-              <span className="font-bold text-white">Pro</span>
+              <span className="font-bold text-green-500 mr-1">EgbonAdugbo</span>
+              <span className="font-bold text-white">Bet</span>
             </div>
           )}
           <h1 className="text-lg font-semibold ml-2">{getPageTitle()}</h1>
